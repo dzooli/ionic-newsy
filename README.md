@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdzooli%2Fionic-newsy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdzooli%2Fionic-newsy?ref=badge_shield)
+
 # Newsy
 
 ## Description
